@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Ganesh Timande
 
-<!--
-**GaneshTimande/GaneshTimande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Automation Test Engineer from Hyderabad, India.  
 
-Here are some ideas to get you started:
+🌱 I’m currently learning **Selenium WebDriver**, **TestNG**, and **API Testing**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Completed Projects
+- **Hybrid Automation Framework** - A Selenium + TestNG + Java automation framework  
+- **Web Application Testing** - Manual and Automation testing for multiple web-based projects  
+
+💬 Ask me about **Selenium**, **API Testing**, **Cucumber**, **TestNG**, and **Automation Frameworks**  
+
+📫 How to reach me: [ganeshtimande9@gmail.com](mailto:ganeshtimande9@gmail.com)  
+
+### Connect with me:
+
+
+### Languages and Tools:
+java | selenium | testng | cucumber | postman | rest-assured | git | maven | jenkins | html5 | css3 | javascript | linux
