@@ -2,7 +2,7 @@
 
 A passionate **Automation Test Engineer** from Hyderabad, India.  
 
-🌱 I’m currently learning **Selenium WebDriver**, **TestNG**, and **API Testing**  
+🌱 I’m currently working **Selenium WebDriver**, **TestNG**, and **API Testing**  
 
 ---
 
